@@ -1,2 +1,2 @@
 # dsh-superagent-playground
-Playground repo for dsh-superagent prototype
+Playground repo for the dsh-superagent prototype
